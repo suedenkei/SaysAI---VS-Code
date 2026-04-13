@@ -1,0 +1,368 @@
+video_id,gloss,split,video_path,landmark_path,num_frames,feature_dim,detection_rate,status
+69302,DRINK,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69302.mp4,C:\SAYSAI\02_clean_data\landmarks\69302.npy,77,126,0.7013,ok
+70173,DRINK,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\70173.mp4,C:\SAYSAI\02_clean_data\landmarks\70173.npy,122,126,0.4918,ok
+68042,DRINK,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\68042.mp4,C:\SAYSAI\02_clean_data\landmarks\68042.npy,88,126,0.6364,ok
+68041,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\68041.mp4,C:\SAYSAI\02_clean_data\landmarks\68041.npy,88,126,0.5455,ok
+17725,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17725.mp4,C:\SAYSAI\02_clean_data\landmarks\17725.npy,70,126,0.6286,ok
+17728,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17728.mp4,C:\SAYSAI\02_clean_data\landmarks\17728.npy,67,126,0.9254,ok
+17710,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17710.mp4,C:\SAYSAI\02_clean_data\landmarks\17710.npy,70,126,0.4286,ok
+17729,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17729.mp4,C:\SAYSAI\02_clean_data\landmarks\17729.npy,72,126,0.7639,ok
+17730,DRINK,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17730.mp4,C:\SAYSAI\02_clean_data\landmarks\17730.npy,82,126,0.6585,ok
+17731,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17731.mp4,C:\SAYSAI\02_clean_data\landmarks\17731.npy,72,126,0.6667,ok
+17733,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17733.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17733.mp4
+17734,DRINK,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17734.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17734.mp4
+17711,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17711.mp4,C:\SAYSAI\02_clean_data\landmarks\17711.npy,81,126,0.4568,ok
+17712,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17712.mp4,C:\SAYSAI\02_clean_data\landmarks\17712.npy,43,126,0.6977,ok
+17713,DRINK,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17713.mp4,C:\SAYSAI\02_clean_data\landmarks\17713.npy,91,126,0.4835,ok
+17709,DRINK,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\17709.mp4,C:\SAYSAI\02_clean_data\landmarks\17709.npy,105,126,0.4,ok
+27194,HELP,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27194.mp4,C:\SAYSAI\02_clean_data\landmarks\27194.npy,47,126,1.0,ok
+69364,HELP,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69364.mp4,C:\SAYSAI\02_clean_data\landmarks\69364.npy,75,126,0.76,ok
+27221,HELP,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27221.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27221.mp4
+27206,HELP,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27206.mp4,C:\SAYSAI\02_clean_data\landmarks\27206.npy,71,126,0.6056,ok
+27207,HELP,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27207.mp4,C:\SAYSAI\02_clean_data\landmarks\27207.npy,58,126,0.8103,ok
+27208,HELP,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27208.mp4,C:\SAYSAI\02_clean_data\landmarks\27208.npy,68,126,0.6471,ok
+27209,HELP,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27209.mp4,C:\SAYSAI\02_clean_data\landmarks\27209.npy,59,126,0.7797,ok
+64275,YES,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64275.mp4,C:\SAYSAI\02_clean_data\landmarks\64275.npy,70,126,1.0,ok
+69546,YES,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69546.mp4,C:\SAYSAI\02_clean_data\landmarks\69546.npy,72,126,0.625,ok
+64287,YES,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64287.mp4,C:\SAYSAI\02_clean_data\landmarks\64287.npy,68,126,0.7353,ok
+68192,YES,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\68192.mp4,C:\SAYSAI\02_clean_data\landmarks\68192.npy,86,126,0.6047,ok
+64284,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64284.mp4,C:\SAYSAI\02_clean_data\landmarks\64284.npy,56,126,0.5893,ok
+64294,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64294.mp4,C:\SAYSAI\02_clean_data\landmarks\64294.npy,60,126,0.5833,ok
+64295,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64295.mp4,C:\SAYSAI\02_clean_data\landmarks\64295.npy,60,126,0.6167,ok
+64296,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64296.mp4,C:\SAYSAI\02_clean_data\landmarks\64296.npy,120,126,0.275,ok
+64297,YES,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64297.mp4,C:\SAYSAI\02_clean_data\landmarks\64297.npy,47,126,0.617,ok
+64280,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64280.mp4,C:\SAYSAI\02_clean_data\landmarks\64280.npy,63,126,0.4762,ok
+64300,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64300.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64300.mp4
+64281,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64281.mp4,C:\SAYSAI\02_clean_data\landmarks\64281.npy,71,126,0.338,ok
+64288,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64288.mp4,C:\SAYSAI\02_clean_data\landmarks\64288.npy,54,126,0.6667,ok
+64283,YES,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\64283.mp4,C:\SAYSAI\02_clean_data\landmarks\64283.npy,22,126,0.3182,ok
+18316,EAT,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18316.mp4,C:\SAYSAI\02_clean_data\landmarks\18316.npy,57,126,1.0,ok
+69307,EAT,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69307.mp4,C:\SAYSAI\02_clean_data\landmarks\69307.npy,61,126,0.541,ok
+68044,EAT,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\68044.mp4,C:\SAYSAI\02_clean_data\landmarks\68044.npy,77,126,0.5584,ok
+18331,EAT,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18331.mp4,C:\SAYSAI\02_clean_data\landmarks\18331.npy,53,126,0.8302,ok
+18332,EAT,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18332.mp4,C:\SAYSAI\02_clean_data\landmarks\18332.npy,70,126,0.5429,ok
+18323,EAT,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18323.mp4,C:\SAYSAI\02_clean_data\landmarks\18323.npy,87,126,0.5747,ok
+18335,EAT,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18335.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18335.mp4
+18324,EAT,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18324.mp4,C:\SAYSAI\02_clean_data\landmarks\18324.npy,67,126,0.3881,ok
+18325,EAT,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\18325.mp4,C:\SAYSAI\02_clean_data\landmarks\18325.npy,72,126,0.4722,ok
+04694,BAD,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04694.mp4,C:\SAYSAI\02_clean_data\landmarks\04694.npy,47,126,1.0,ok
+69219,BAD,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69219.mp4,C:\SAYSAI\02_clean_data\landmarks\69219.npy,54,126,0.5741,ok
+04709,BAD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04709.mp4,C:\SAYSAI\02_clean_data\landmarks\04709.npy,66,126,0.5606,ok
+04712,BAD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04712.mp4,C:\SAYSAI\02_clean_data\landmarks\04712.npy,20,126,0.85,ok
+04713,BAD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04713.mp4,C:\SAYSAI\02_clean_data\landmarks\04713.npy,79,126,0.5949,ok
+04715,BAD,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04715.mp4,C:\SAYSAI\02_clean_data\landmarks\04715.npy,94,126,0.617,ok
+04708,BAD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04708.mp4,C:\SAYSAI\02_clean_data\landmarks\04708.npy,71,126,0.4085,ok
+04720,BAD,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04720.mp4,C:\SAYSAI\02_clean_data\landmarks\04720.npy,81,126,0.4815,ok
+04721,BAD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04721.mp4,C:\SAYSAI\02_clean_data\landmarks\04721.npy,57,126,0.4912,ok
+04723,BAD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04723.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\04723.mp4
+25037,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25037.mp4,C:\SAYSAI\02_clean_data\landmarks\25037.npy,43,126,1.0,ok
+69347,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69347.mp4,C:\SAYSAI\02_clean_data\landmarks\69347.npy,50,126,0.58,ok
+70259,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\70259.mp4,C:\SAYSAI\02_clean_data\landmarks\70259.npy,96,126,0.7917,ok
+25074,GOOD,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25074.mp4,C:\SAYSAI\02_clean_data\landmarks\25074.npy,68,126,0.7647,ok
+25066,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25066.mp4,C:\SAYSAI\02_clean_data\landmarks\25066.npy,58,126,0.6207,ok
+25076,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25076.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25076.mp4
+25067,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25067.mp4,C:\SAYSAI\02_clean_data\landmarks\25067.npy,74,126,0.473,ok
+25068,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25068.mp4,C:\SAYSAI\02_clean_data\landmarks\25068.npy,60,126,0.4333,ok
+25069,GOOD,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25069.mp4,C:\SAYSAI\02_clean_data\landmarks\25069.npy,21,126,0.7143,ok
+25070,GOOD,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\25070.mp4,C:\SAYSAI\02_clean_data\landmarks\25070.npy,52,126,0.8462,ok
+43213,PLEASE,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43213.mp4,C:\SAYSAI\02_clean_data\landmarks\43213.npy,60,126,1.0,ok
+69434,PLEASE,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69434.mp4,C:\SAYSAI\02_clean_data\landmarks\69434.npy,86,126,0.8605,ok
+70220,PLEASE,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\70220.mp4,C:\SAYSAI\02_clean_data\landmarks\70220.npy,33,126,0.0,ok
+43226,PLEASE,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43226.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43226.mp4
+43217,PLEASE,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43217.mp4,C:\SAYSAI\02_clean_data\landmarks\43217.npy,78,126,0.5769,ok
+43218,PLEASE,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43218.mp4,C:\SAYSAI\02_clean_data\landmarks\43218.npy,65,126,0.6462,ok
+43219,PLEASE,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43219.mp4,C:\SAYSAI\02_clean_data\landmarks\43219.npy,80,126,0.8375,ok
+43220,PLEASE,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43220.mp4,C:\SAYSAI\02_clean_data\landmarks\43220.npy,80,126,0.6625,ok
+43224,PLEASE,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\43224.mp4,C:\SAYSAI\02_clean_data\landmarks\43224.npy,72,126,0.5833,ok
+57653,THANK YOU,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57653.mp4,C:\SAYSAI\02_clean_data\landmarks\57653.npy,47,126,1.0,ok
+69502,THANK YOU,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\69502.mp4,C:\SAYSAI\02_clean_data\landmarks\69502.npy,82,126,0.7927,ok
+57663,THANK YOU,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57663.mp4,C:\SAYSAI\02_clean_data\landmarks\57663.npy,90,126,0.3556,ok
+57655,THANK YOU,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57655.mp4,C:\SAYSAI\02_clean_data\landmarks\57655.npy,75,126,0.44,ok
+57667,THANK YOU,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57667.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57667.mp4
+57656,THANK YOU,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57656.mp4,C:\SAYSAI\02_clean_data\landmarks\57656.npy,68,126,0.7353,ok
+57657,THANK YOU,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\57657.mp4,C:\SAYSAI\02_clean_data\landmarks\57657.npy,66,126,0.5758,ok
+27171,HELLO,val,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27171.mp4,C:\SAYSAI\02_clean_data\landmarks\27171.npy,47,126,0.9787,ok
+70017,HELLO,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\70017.mp4,C:\SAYSAI\02_clean_data\landmarks\70017.npy,82,126,0.1707,ok
+27180,HELLO,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27180.mp4,C:\SAYSAI\02_clean_data\landmarks\27180.npy,113,126,0.8407,ok
+27181,HELLO,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27181.mp4,C:\SAYSAI\02_clean_data\landmarks\27181.npy,54,126,0.6111,ok
+27184,HELLO,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27184.mp4,,0,126,0.0,error: Could not open video: C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27184.mp4
+27172,HELLO,test,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27172.mp4,C:\SAYSAI\02_clean_data\landmarks\27172.npy,69,126,0.6087,ok
+27173,HELLO,train,C:\SAYSAI\01_raw_data\wlasl_10\start_kit\videos\27173.mp4,C:\SAYSAI\02_clean_data\landmarks\27173.npy,58,126,0.5345,ok
+99000,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99000.npy,30,126,1.0,ok
+99001,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99001.npy,30,126,1.0,ok
+99002,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99002.npy,30,126,1.0,ok
+99003,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99003.npy,30,126,1.0,ok
+99004,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99004.npy,30,126,1.0,ok
+99005,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99005.npy,30,126,1.0,ok
+99006,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99006.npy,30,126,1.0,ok
+99007,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99007.npy,30,126,1.0,ok
+99008,HELLO,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99008.npy,30,126,1.0,ok
+99009,HELLO,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99009.npy,30,126,1.0,ok
+99010,HELLO,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99010.npy,30,126,1.0,ok
+99011,HELLO,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99011.npy,30,126,1.0,ok
+99012,HELLO,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99012.npy,30,126,1.0,ok
+99013,HELLO,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99013.npy,30,126,1.0,ok
+99014,HELLO,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99014.npy,30,126,1.0,ok
+99015,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99015.npy,30,126,1.0,ok
+99016,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99016.npy,30,126,1.0,ok
+99017,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99017.npy,30,126,1.0,ok
+99018,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99018.npy,30,126,1.0,ok
+99019,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99019.npy,30,126,1.0,ok
+99020,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99020.npy,30,126,1.0,ok
+99021,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99021.npy,30,126,1.0,ok
+99022,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99022.npy,30,126,1.0,ok
+99023,THANK YOU,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99023.npy,30,126,1.0,ok
+99024,THANK YOU,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99024.npy,30,126,1.0,ok
+99025,THANK YOU,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99025.npy,30,126,1.0,ok
+99026,THANK YOU,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99026.npy,30,126,1.0,ok
+99027,THANK YOU,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99027.npy,30,126,1.0,ok
+99028,THANK YOU,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99028.npy,30,126,1.0,ok
+99029,THANK YOU,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99029.npy,30,126,1.0,ok
+99030,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99030.npy,30,126,1.0,ok
+99031,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99031.npy,30,126,1.0,ok
+99032,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99032.npy,30,126,1.0,ok
+99033,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99033.npy,30,126,1.0,ok
+99034,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99034.npy,30,126,1.0,ok
+99035,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99035.npy,30,126,1.0,ok
+99036,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99036.npy,30,126,1.0,ok
+99037,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99037.npy,30,126,1.0,ok
+99038,GOOD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99038.npy,30,126,1.0,ok
+99039,GOOD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99039.npy,30,126,1.0,ok
+99040,GOOD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99040.npy,30,126,1.0,ok
+99041,GOOD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99041.npy,30,126,1.0,ok
+99042,GOOD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99042.npy,30,126,1.0,ok
+99043,GOOD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99043.npy,30,126,1.0,ok
+99044,GOOD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99044.npy,30,126,1.0,ok
+99045,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99045.npy,30,126,1.0,ok
+99046,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99046.npy,30,126,1.0,ok
+99047,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99047.npy,30,126,1.0,ok
+99048,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99048.npy,30,126,1.0,ok
+99049,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99049.npy,30,126,1.0,ok
+99050,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99050.npy,30,126,1.0,ok
+99051,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99051.npy,30,126,1.0,ok
+99052,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99052.npy,30,126,1.0,ok
+99053,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99053.npy,30,126,1.0,ok
+99054,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99054.npy,30,126,1.0,ok
+99055,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99055.npy,30,126,1.0,ok
+99056,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99056.npy,30,126,1.0,ok
+99057,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99057.npy,30,126,1.0,ok
+99058,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99058.npy,30,126,1.0,ok
+99059,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99059.npy,30,126,1.0,ok
+99060,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99060.npy,30,126,1.0,ok
+99061,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99061.npy,30,126,1.0,ok
+99062,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99062.npy,30,126,1.0,ok
+99063,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99063.npy,30,126,1.0,ok
+99064,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99064.npy,30,126,1.0,ok
+99065,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99065.npy,30,126,1.0,ok
+99066,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99066.npy,30,126,1.0,ok
+99067,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99067.npy,30,126,1.0,ok
+99068,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99068.npy,30,126,1.0,ok
+99069,EAT,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99069.npy,30,126,1.0,ok
+99070,EAT,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99070.npy,30,126,1.0,ok
+99071,EAT,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99071.npy,30,126,1.0,ok
+99072,EAT,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99072.npy,30,126,1.0,ok
+99073,EAT,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99073.npy,30,126,1.0,ok
+99074,EAT,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99074.npy,30,126,1.0,ok
+99075,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99075.npy,30,126,0.9333,ok
+99076,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99076.npy,30,126,1.0000,ok
+99077,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99077.npy,30,126,0.9667,ok
+99078,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99078.npy,30,126,1.0000,ok
+99079,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99079.npy,30,126,1.0000,ok
+99080,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99080.npy,30,126,1.0000,ok
+99081,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99081.npy,30,126,1.0000,ok
+99082,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99082.npy,30,126,0.9000,ok
+99083,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99083.npy,30,126,1.0000,ok
+99084,DRINK,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99084.npy,30,126,1.0000,ok
+99085,DRINK,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99085.npy,30,126,1.0000,ok
+99086,DRINK,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99086.npy,30,126,1.0000,ok
+99087,DRINK,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99087.npy,30,126,1.0000,ok
+99088,DRINK,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99088.npy,30,126,1.0000,ok
+99089,DRINK,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99089.npy,30,126,1.0000,ok
+99090,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99090.npy,30,126,1.0000,ok
+99091,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99091.npy,30,126,1.0000,ok
+99092,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99092.npy,30,126,1.0000,ok
+99093,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99093.npy,30,126,1.0000,ok
+99094,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99094.npy,30,126,1.0000,ok
+99095,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99095.npy,30,126,1.0000,ok
+99096,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99096.npy,30,126,1.0000,ok
+99097,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99097.npy,30,126,1.0000,ok
+99098,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99098.npy,30,126,1.0000,ok
+99099,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99099.npy,30,126,0.9333,ok
+99100,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99100.npy,30,126,0.9667,ok
+99101,HELP,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99101.npy,30,126,1.0000,ok
+99102,HELP,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99102.npy,30,126,1.0000,ok
+99103,HELP,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99103.npy,30,126,1.0000,ok
+99104,HELP,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99104.npy,30,126,1.0000,ok
+99105,HELP,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99105.npy,30,126,1.0000,ok
+99106,HELP,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99106.npy,30,126,1.0000,ok
+99107,HELP,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99107.npy,30,126,0.9000,ok
+99108,HELP,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99108.npy,30,126,0.9333,ok
+99109,HELP,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99109.npy,30,126,1.0000,ok
+99110,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99110.npy,30,126,1.0000,ok
+99111,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99111.npy,30,126,0.9000,ok
+99112,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99112.npy,30,126,0.8667,ok
+99113,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99113.npy,30,126,0.6333,ok
+99114,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99114.npy,30,126,0.9667,ok
+99115,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99115.npy,30,126,0.9000,ok
+99116,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99116.npy,30,126,0.9667,ok
+99117,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99117.npy,30,126,0.9000,ok
+99118,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99118.npy,30,126,1.0000,ok
+99119,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99119.npy,30,126,1.0000,ok
+99120,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99120.npy,30,126,1.0000,ok
+99121,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99121.npy,30,126,0.9667,ok
+99122,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99122.npy,30,126,1.0000,ok
+99123,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99123.npy,30,126,1.0000,ok
+99124,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99124.npy,30,126,1.0000,ok
+99125,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99125.npy,30,126,1.0000,ok
+99126,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99126.npy,30,126,1.0000,ok
+99127,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99127.npy,30,126,1.0000,ok
+99128,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99128.npy,30,126,1.0000,ok
+99129,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99129.npy,30,126,1.0000,ok
+99130,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99130.npy,30,126,1.0000,ok
+99131,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99131.npy,30,126,1.0000,ok
+99132,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99132.npy,30,126,1.0000,ok
+99133,DRINK,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99133.npy,30,126,1.0000,ok
+99134,DRINK,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99134.npy,30,126,1.0000,ok
+99135,DRINK,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99135.npy,30,126,1.0000,ok
+99136,DRINK,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99136.npy,30,126,1.0000,ok
+99137,DRINK,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99137.npy,30,126,1.0000,ok
+99138,DRINK,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99138.npy,30,126,1.0000,ok
+99139,DRINK,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99139.npy,30,126,1.0000,ok
+99140,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99140.npy,30,126,1.0000,ok
+99141,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99141.npy,30,126,1.0000,ok
+99142,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99142.npy,30,126,1.0000,ok
+99143,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99143.npy,30,126,1.0000,ok
+99144,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99144.npy,30,126,1.0000,ok
+99145,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99145.npy,30,126,1.0000,ok
+99146,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99146.npy,30,126,1.0000,ok
+99147,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99147.npy,30,126,1.0000,ok
+99148,YES,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99148.npy,30,126,1.0000,ok
+99149,YES,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99149.npy,30,126,1.0000,ok
+99150,YES,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99150.npy,30,126,1.0000,ok
+99151,YES,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99151.npy,30,126,1.0000,ok
+99152,YES,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99152.npy,30,126,1.0000,ok
+99153,YES,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99153.npy,30,126,1.0000,ok
+99154,YES,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99154.npy,30,126,1.0000,ok
+99155,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99155.npy,30,126,1.0000,ok
+99156,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99156.npy,30,126,1.0000,ok
+99157,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99157.npy,30,126,1.0000,ok
+99158,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99158.npy,30,126,1.0000,ok
+99159,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99159.npy,30,126,1.0000,ok
+99160,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99160.npy,30,126,1.0000,ok
+99161,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99161.npy,30,126,1.0000,ok
+99162,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99162.npy,30,126,1.0000,ok
+99163,EAT,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99163.npy,30,126,1.0000,ok
+99164,EAT,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99164.npy,30,126,1.0000,ok
+99165,EAT,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99165.npy,30,126,1.0000,ok
+99166,EAT,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99166.npy,30,126,1.0000,ok
+99167,EAT,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99167.npy,30,126,1.0000,ok
+99168,EAT,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99168.npy,30,126,1.0000,ok
+99169,EAT,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99169.npy,30,126,1.0000,ok
+99170,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99170.npy,30,126,1.0000,ok
+99171,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99171.npy,30,126,1.0000,ok
+99172,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99172.npy,30,126,1.0000,ok
+99173,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99173.npy,30,126,1.0000,ok
+99174,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99174.npy,30,126,1.0000,ok
+99175,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99175.npy,30,126,1.0000,ok
+99176,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99176.npy,30,126,1.0000,ok
+99177,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99177.npy,30,126,1.0000,ok
+99178,BAD,train,recorded,C:\SAYSAI\02_clean_data\landmarks\99178.npy,30,126,1.0000,ok
+99179,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99179.npy,30,126,1.0000,ok
+99180,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99180.npy,30,126,1.0000,ok
+99181,BAD,val,recorded,C:\SAYSAI\02_clean_data\landmarks\99181.npy,30,126,1.0000,ok
+99182,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99182.npy,30,126,1.0000,ok
+99183,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99183.npy,30,126,1.0000,ok
+99184,BAD,test,recorded,C:\SAYSAI\02_clean_data\landmarks\99184.npy,30,126,1.0000,ok
+99185,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_002.mp4,C:\SAYSAI\02_clean_data\landmarks\99185.npy,30,126,1.0000,ok
+99185,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_002.mp4,C:\SAYSAI\02_clean_data\landmarks\99185.npy,30,126,1.0000,ok
+99186,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_003.mp4,C:\SAYSAI\02_clean_data\landmarks\99186.npy,30,126,1.0000,ok
+99186,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_003.mp4,C:\SAYSAI\02_clean_data\landmarks\99186.npy,30,126,1.0000,ok
+99187,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_01.mp4,C:\SAYSAI\02_clean_data\landmarks\99187.npy,30,126,1.0000,ok
+99187,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_01.mp4,C:\SAYSAI\02_clean_data\landmarks\99187.npy,30,126,1.0000,ok
+99188,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_04.mp4,C:\SAYSAI\02_clean_data\landmarks\99188.npy,30,126,1.0000,ok
+99188,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_04.mp4,C:\SAYSAI\02_clean_data\landmarks\99188.npy,30,126,1.0000,ok
+99189,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_05.mp4,C:\SAYSAI\02_clean_data\landmarks\99189.npy,30,126,1.0000,ok
+99189,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_05.mp4,C:\SAYSAI\02_clean_data\landmarks\99189.npy,30,126,1.0000,ok
+99190,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_06.mp4,C:\SAYSAI\02_clean_data\landmarks\99190.npy,30,126,0.9000,ok
+99190,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_06.mp4,C:\SAYSAI\02_clean_data\landmarks\99190.npy,30,126,0.9000,ok
+99191,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_07.mp4,C:\SAYSAI\02_clean_data\landmarks\99191.npy,30,126,1.0000,ok
+99191,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_07.mp4,C:\SAYSAI\02_clean_data\landmarks\99191.npy,30,126,1.0000,ok
+99192,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_08.mp4,C:\SAYSAI\02_clean_data\landmarks\99192.npy,30,126,1.0000,ok
+99193,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_09.mp4,C:\SAYSAI\02_clean_data\landmarks\99193.npy,30,126,1.0000,ok
+99193,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_09.mp4,C:\SAYSAI\02_clean_data\landmarks\99193.npy,30,126,1.0000,ok
+99194,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_10.mp4,C:\SAYSAI\02_clean_data\landmarks\99194.npy,30,126,1.0000,ok
+99194,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_10.mp4,C:\SAYSAI\02_clean_data\landmarks\99194.npy,30,126,1.0000,ok
+99195,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_11.mp4,C:\SAYSAI\02_clean_data\landmarks\99195.npy,30,126,1.0000,ok
+99196,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_12.mp4,C:\SAYSAI\02_clean_data\landmarks\99196.npy,30,126,1.0000,ok
+99196,HELLO,train,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_12.mp4,C:\SAYSAI\02_clean_data\landmarks\99196.npy,30,126,1.0000,ok
+99197,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_13.mp4,C:\SAYSAI\02_clean_data\landmarks\99197.npy,30,126,1.0000,ok
+99197,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_13.mp4,C:\SAYSAI\02_clean_data\landmarks\99197.npy,30,126,1.0000,ok
+99198,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_14.mp4,C:\SAYSAI\02_clean_data\landmarks\99198.npy,30,126,1.0000,ok
+99198,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_14.mp4,C:\SAYSAI\02_clean_data\landmarks\99198.npy,30,126,1.0000,ok
+99199,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_15.mp4,C:\SAYSAI\02_clean_data\landmarks\99199.npy,30,126,1.0000,ok
+99199,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_15.mp4,C:\SAYSAI\02_clean_data\landmarks\99199.npy,30,126,1.0000,ok
+99200,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_16.mp4,C:\SAYSAI\02_clean_data\landmarks\99200.npy,30,126,1.0000,ok
+99200,HELLO,val,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_16.mp4,C:\SAYSAI\02_clean_data\landmarks\99200.npy,30,126,1.0000,ok
+99201,HELLO,test,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_17.mp4,C:\SAYSAI\02_clean_data\landmarks\99201.npy,30,126,1.0000,ok
+99201,HELLO,test,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_17.mp4,C:\SAYSAI\02_clean_data\landmarks\99201.npy,30,126,1.0000,ok
+99202,HELLO,test,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_18.mp4,C:\SAYSAI\02_clean_data\landmarks\99202.npy,30,126,1.0000,ok
+99202,HELLO,test,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_18.mp4,C:\SAYSAI\02_clean_data\landmarks\99202.npy,30,126,1.0000,ok
+99203,HELLO,test,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_19.mp4,C:\SAYSAI\02_clean_data\landmarks\99203.npy,30,126,1.0000,ok
+99203,HELLO,test,C:\SAYSAI\01_raw_data\custom_mp4\HELLO\hello_19.mp4,C:\SAYSAI\02_clean_data\landmarks\99203.npy,30,126,1.0000,ok
+99204,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_01.mp4,C:\SAYSAI\02_clean_data\landmarks\99204.npy,30,126,1.0000,ok
+99205,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_03.mp4,C:\SAYSAI\02_clean_data\landmarks\99205.npy,30,126,1.0000,ok
+99206,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_04.mp4,C:\SAYSAI\02_clean_data\landmarks\99206.npy,30,126,1.0000,ok
+99207,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_05.mp4,C:\SAYSAI\02_clean_data\landmarks\99207.npy,30,126,1.0000,ok
+99208,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_06.mp4,C:\SAYSAI\02_clean_data\landmarks\99208.npy,30,126,1.0000,ok
+99209,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_07.mp4,C:\SAYSAI\02_clean_data\landmarks\99209.npy,30,126,1.0000,ok
+99210,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_08.mp4,C:\SAYSAI\02_clean_data\landmarks\99210.npy,30,126,1.0000,ok
+99211,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_09.mp4,C:\SAYSAI\02_clean_data\landmarks\99211.npy,30,126,1.0000,ok
+99212,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_10.mp4,C:\SAYSAI\02_clean_data\landmarks\99212.npy,30,126,1.0000,ok
+99213,HELP,train,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_11.mp4,C:\SAYSAI\02_clean_data\landmarks\99213.npy,30,126,0.9333,ok
+99214,HELP,val,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_12.mp4,C:\SAYSAI\02_clean_data\landmarks\99214.npy,30,126,1.0000,ok
+99215,HELP,val,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_13.mp4,C:\SAYSAI\02_clean_data\landmarks\99215.npy,30,126,1.0000,ok
+99216,HELP,val,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_14.mp4,C:\SAYSAI\02_clean_data\landmarks\99216.npy,30,126,0.7333,ok
+99217,HELP,test,C:\SAYSAI\01_raw_data\custom_mp4\HELP\help_18.mp4,C:\SAYSAI\02_clean_data\landmarks\99217.npy,30,126,1.0000,ok
+99218,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_01.mp4,C:\SAYSAI\02_clean_data\landmarks\99218.npy,30,126,1.0000,ok
+99219,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_02.mp4,C:\SAYSAI\02_clean_data\landmarks\99219.npy,30,126,1.0000,ok
+99220,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_04.mp4,C:\SAYSAI\02_clean_data\landmarks\99220.npy,30,126,0.9333,ok
+99221,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_05.mp4,C:\SAYSAI\02_clean_data\landmarks\99221.npy,30,126,1.0000,ok
+99222,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_06.mp4,C:\SAYSAI\02_clean_data\landmarks\99222.npy,30,126,1.0000,ok
+99223,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_07.mp4,C:\SAYSAI\02_clean_data\landmarks\99223.npy,30,126,1.0000,ok
+99224,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_08.mp4,C:\SAYSAI\02_clean_data\landmarks\99224.npy,30,126,1.0000,ok
+99225,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_09.mp4,C:\SAYSAI\02_clean_data\landmarks\99225.npy,30,126,1.0000,ok
+99226,WANT,train,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_10.mp4,C:\SAYSAI\02_clean_data\landmarks\99226.npy,30,126,1.0000,ok
+99227,WANT,val,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_11.mp4,C:\SAYSAI\02_clean_data\landmarks\99227.npy,30,126,1.0000,ok
+99228,WANT,val,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_12.mp4,C:\SAYSAI\02_clean_data\landmarks\99228.npy,30,126,0.7333,ok
+99229,WANT,val,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_13.mp4,C:\SAYSAI\02_clean_data\landmarks\99229.npy,30,126,0.7333,ok
+99230,WANT,test,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_15.mp4,C:\SAYSAI\02_clean_data\landmarks\99230.npy,30,126,0.9000,ok
+99231,WANT,test,C:\SAYSAI\01_raw_data\custom_mp4\WANT\want_16.mp4,C:\SAYSAI\02_clean_data\landmarks\99231.npy,30,126,1.0000,ok
+99232,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_01.mp4,C:\SAYSAI\02_clean_data\landmarks\99232.npy,30,126,1.0000,ok
+99233,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_02.mp4,C:\SAYSAI\02_clean_data\landmarks\99233.npy,30,126,1.0000,ok
+99234,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_03.mp4,C:\SAYSAI\02_clean_data\landmarks\99234.npy,30,126,0.6000,ok
+99235,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_04.mp4,C:\SAYSAI\02_clean_data\landmarks\99235.npy,30,126,1.0000,ok
+99236,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_05.mp4,C:\SAYSAI\02_clean_data\landmarks\99236.npy,30,126,1.0000,ok
+99237,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_06.mp4,C:\SAYSAI\02_clean_data\landmarks\99237.npy,30,126,1.0000,ok
+99238,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_07.mp4,C:\SAYSAI\02_clean_data\landmarks\99238.npy,30,126,1.0000,ok
+99239,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_08.mp4,C:\SAYSAI\02_clean_data\landmarks\99239.npy,30,126,1.0000,ok
+99240,THANK YOU,train,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_09.mp4,C:\SAYSAI\02_clean_data\landmarks\99240.npy,30,126,1.0000,ok
+99241,THANK YOU,val,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_10.mp4,C:\SAYSAI\02_clean_data\landmarks\99241.npy,30,126,0.8333,ok
+99242,THANK YOU,val,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_12.mp4,C:\SAYSAI\02_clean_data\landmarks\99242.npy,30,126,1.0000,ok
+99243,THANK YOU,test,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_13.mp4,C:\SAYSAI\02_clean_data\landmarks\99243.npy,30,126,1.0000,ok
+99244,THANK YOU,test,C:\SAYSAI\01_raw_data\custom_mp4\THANK YOU\thank_you_14.mp4,C:\SAYSAI\02_clean_data\landmarks\99244.npy,30,126,0.9667,ok
+99245,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_01.mp4,C:\SAYSAI\02_clean_data\landmarks\99245.npy,30,126,1.0000,ok
+99246,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_02.mp4,C:\SAYSAI\02_clean_data\landmarks\99246.npy,30,126,1.0000,ok
+99247,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_03.mp4,C:\SAYSAI\02_clean_data\landmarks\99247.npy,30,126,1.0000,ok
+99248,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_04.mp4,C:\SAYSAI\02_clean_data\landmarks\99248.npy,30,126,1.0000,ok
+99249,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_06.mp4,C:\SAYSAI\02_clean_data\landmarks\99249.npy,30,126,0.6667,ok
+99250,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_08.mp4,C:\SAYSAI\02_clean_data\landmarks\99250.npy,30,126,1.0000,ok
+99251,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_09.mp4,C:\SAYSAI\02_clean_data\landmarks\99251.npy,30,126,1.0000,ok
+99252,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_10.mp4,C:\SAYSAI\02_clean_data\landmarks\99252.npy,30,126,1.0000,ok
+99253,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_11.mp4,C:\SAYSAI\02_clean_data\landmarks\99253.npy,30,126,1.0000,ok
+99254,PLEASE,train,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_13.mp4,C:\SAYSAI\02_clean_data\landmarks\99254.npy,30,126,0.8667,ok
+99255,PLEASE,val,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_14.mp4,C:\SAYSAI\02_clean_data\landmarks\99255.npy,30,126,1.0000,ok
+99256,PLEASE,val,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_16.mp4,C:\SAYSAI\02_clean_data\landmarks\99256.npy,30,126,1.0000,ok
+99257,PLEASE,val,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_17.mp4,C:\SAYSAI\02_clean_data\landmarks\99257.npy,30,126,1.0000,ok
+99258,PLEASE,test,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_18.mp4,C:\SAYSAI\02_clean_data\landmarks\99258.npy,30,126,1.0000,ok
+99259,PLEASE,test,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_20.mp4,C:\SAYSAI\02_clean_data\landmarks\99259.npy,30,126,0.6000,ok
+99260,PLEASE,test,C:\SAYSAI\01_raw_data\custom_mp4\PLEASE\please_21.mp4,C:\SAYSAI\02_clean_data\landmarks\99260.npy,30,126,1.0000,ok
